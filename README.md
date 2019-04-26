@@ -5,3 +5,6 @@ Purpose: To develope an image classifier using Bayesian Convolutional Neural Net
 Techniques used: CNN, Bayesian CNN
 
 Tools Used: PyTorch, Jupyter Notebook, Python
+
+
+asef
